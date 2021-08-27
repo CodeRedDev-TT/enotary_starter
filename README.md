@@ -1,3 +1,8 @@
+# Prince Notes
+This project was set up using yarn. Migrating the site UI depending on if the existing site requires jquery and other technologies, you
+may have issues just "import x from x" with vue code. The easiest solution would be to include external dependancies as scripts in the public 
+folder - which is fine according to most modern SPA standards :).
+
 # enotary_fe
 
 ## Project setup

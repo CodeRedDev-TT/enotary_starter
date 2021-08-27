@@ -1,0 +1,4 @@
+The Shared Layout files can be used as global layouts for Authetication screens, In App Screens etc.
+Similar to the eVault Project how we have the main Layout.cshtml file.
+
+Routes have been set up to use these layout files - all that is required is importthe general UI design
